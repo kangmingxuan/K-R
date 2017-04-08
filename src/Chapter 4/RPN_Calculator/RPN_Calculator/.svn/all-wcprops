@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/trunk/Chapter%204/RPN_Calculator/RPN_Calculator
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/52/trunk/Chapter%204/RPN_Calculator/RPN_Calculator/main.c
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/52/trunk/Chapter%204/RPN_Calculator/RPN_Calculator/stack.c
+END
+Calc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/52/trunk/Chapter%204/RPN_Calculator/RPN_Calculator/Calc.h
+END
+RPN_Calculator.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/45/trunk/Chapter%204/RPN_Calculator/RPN_Calculator/RPN_Calculator.vcxproj.filters
+END
+getch.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/52/trunk/Chapter%204/RPN_Calculator/RPN_Calculator/getch.c
+END
+getop.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/Chapter%204/RPN_Calculator/RPN_Calculator/getop.c
+END
+RPN_Calculator.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/45/trunk/Chapter%204/RPN_Calculator/RPN_Calculator/RPN_Calculator.vcxproj
+END

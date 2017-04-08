@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise
+END
+bitwise.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise/bitwise.h
+END
+setbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise/setbits.c
+END
+bitwise.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise/bitwise.vcxproj
+END
+rightrot.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise/rightrot.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise/main.c
+END
+bitwise.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise/bitwise.vcxproj.filters
+END
+invert.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/24/trunk/Chapter%202/bitwise/bitwise/invert.c
+END

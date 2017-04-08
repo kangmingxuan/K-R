@@ -1,0 +1,2 @@
+The solution to the K&R C 5-6 is to modified routines of previous chapters with pointer.
+Currently, I have finish the "reverse_recursive" routine in chapter 4.

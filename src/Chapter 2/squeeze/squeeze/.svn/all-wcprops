@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/22/trunk/Chapter%202/squeeze/squeeze
+END
+squeeze.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/Chapter%202/squeeze/squeeze/squeeze.c
+END
+squeeze.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/trunk/Chapter%202/squeeze/squeeze/squeeze.vcxproj.filters
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/22/trunk/Chapter%202/squeeze/squeeze/main.c
+END
+squeeze.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/trunk/Chapter%202/squeeze/squeeze/squeeze.h
+END
+squeeze.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/trunk/Chapter%202/squeeze/squeeze/squeeze.vcxproj
+END
